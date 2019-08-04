@@ -1,4 +1,4 @@
-import {BalanceLeave} from '../pojo/balanceleave';
+import {BalanceLeave} from '../pojo/balance_leave';
 
 export let leavedata: BalanceLeave[] = [
     {
